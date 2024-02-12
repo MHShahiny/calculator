@@ -24,6 +24,9 @@ body {
     border: none;
     background-color: hsl(0, 0%, 20%);
     color: white;
+    overflow-x: auto;
+    white-space: nowrap;
+    box-sizing: border-box;
 }
 
 #keys {
